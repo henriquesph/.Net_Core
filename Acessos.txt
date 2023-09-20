@@ -1,0 +1,7 @@
+Mysql
+usuário: root
+senha: root
+
+Ubuntu
+henrique
+27713551
